@@ -18,10 +18,10 @@ A simple command line interface (CLI) to fetch data from The Movie Database (TMD
 3. To run use this command : `node cli_tmdb_app.js --type "playing"`
   - Usage: node cli_tmdb_app.js [options]
   - Commands:
-     - **--type "playing" **           List items that are filtered by the type **"playing"**.
-     - **--type "now_playing" **       List items that are filtered by the type **"now_playing"**.
-     - **--type "upcoming" **          List items that are filtered by the type **"upcoming"**.
-     - **--type "top_rated" **         List items that are filtered by the type **"top_rated"**.
+     - **--type** **"playing" **           List items that are filtered by the type **"playing"**.
+     - **--type** **"now_playing" **       List items that are filtered by the type **"now_playing"**.
+     - **--type** **"upcoming" **          List items that are filtered by the type **"upcoming"**.
+     - **--type** **"top_rated" **         List items that are filtered by the type **"top_rated"**.
 
 
 
