@@ -21,7 +21,7 @@ A simple command line interface (CLI) to fetch data from The Movie Database (TMD
      - **--type "playing" **           List items that are filtered by the type **"playing"**.
      - **--type "now_playing" **       List items that are filtered by the type **"now_playing"**.
      - **--type "upcoming" **          List items that are filtered by the type **"upcoming"**.
-     - **--type "top_rated" **          List items that are filtered by the type **"top_rated"**.
+     - **--type "top_rated" **         List items that are filtered by the type **"top_rated"**.
 
 
 
